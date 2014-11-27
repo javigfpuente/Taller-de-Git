@@ -1,4 +1,4 @@
-Taller-de-Git(????GUARDANDO?????)
+Taller-de-Git(En la nueva Rama????GUARDANDO?????)
 =============
 
 Taller práctico de Git para el curso de formación del profesorado en computación nube.
